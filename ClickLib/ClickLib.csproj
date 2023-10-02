@@ -28,7 +28,7 @@
   </PropertyGroup>
 
   <PropertyGroup>
-    <DalamudLibPath>$(appdata)\xl2\addon\Hooks\dev\</DalamudLibPath>
+    <DalamudLibPath>$(appdata)\xivlauncher\addon\Hooks\dev\</DalamudLibPath>
   </PropertyGroup>
   
   <PropertyGroup Condition="'$(OS)' != 'Windows_NT'">
